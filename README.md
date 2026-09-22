@@ -7,3 +7,6 @@ Hacksudo: Search CTF — Technical Walkthrough
 <img width="1920" height="1080" alt="Screenshot_2026-09-21_22_13_45" src="https://github.com/user-attachments/assets/efe92120-dc4d-4c36-9adf-48b517564290" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-21_22_15_06" src="https://github.com/user-attachments/assets/2cdbf902-ef09-4c10-9a87-6b27427911f0" />
 <img width="1920" height="1080" alt="Screenshot_2026-09-21_22_16_33" src="https://github.com/user-attachments/assets/b04c7835-4bc4-4a42-95dd-ea7de6a7cab4" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-21_22_22_16" src="https://github.com/user-attachments/assets/7c24bf3c-3f1c-418e-9ace-dbee92ee8176" />
+<img width="1920" height="1080" alt="Screenshot_2026-09-22_11_51_47" src="https://github.com/user-attachments/assets/7b68354d-fd09-4968-80a7-d7f584d0d34e" />
+
